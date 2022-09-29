@@ -1,0 +1,45 @@
+E:\GetAcademy\Modul 3\Verksted\bin\Debug\net6.0\Verksted.exe
+E:\GetAcademy\Modul 3\Verksted\bin\Debug\net6.0\Verksted.deps.json
+E:\GetAcademy\Modul 3\Verksted\bin\Debug\net6.0\Verksted.runtimeconfig.json
+E:\GetAcademy\Modul 3\Verksted\bin\Debug\net6.0\Verksted.dll
+E:\GetAcademy\Modul 3\Verksted\bin\Debug\net6.0\Verksted.pdb
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\Verksted.csproj.AssemblyReference.cache
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\Verksted.GeneratedMSBuildEditorConfig.editorconfig
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\Verksted.AssemblyInfoInputs.cache
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\Verksted.AssemblyInfo.cs
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\Verksted.csproj.CoreCompileInputs.cache
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\Verksted.dll
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\refint\Verksted.dll
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\Verksted.pdb
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\Verksted.genruntimeconfig.cache
+E:\GetAcademy\Modul 3\Verksted\obj\Debug\net6.0\ref\Verksted.dll
+F:\C#\Verksted\bin\Debug\net6.0\Verksted.exe
+F:\C#\Verksted\bin\Debug\net6.0\Verksted.deps.json
+F:\C#\Verksted\bin\Debug\net6.0\Verksted.runtimeconfig.json
+F:\C#\Verksted\bin\Debug\net6.0\Verksted.dll
+F:\C#\Verksted\bin\Debug\net6.0\Verksted.pdb
+F:\C#\Verksted\obj\Debug\net6.0\Verksted.csproj.AssemblyReference.cache
+F:\C#\Verksted\obj\Debug\net6.0\Verksted.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Verksted\obj\Debug\net6.0\Verksted.AssemblyInfoInputs.cache
+F:\C#\Verksted\obj\Debug\net6.0\Verksted.AssemblyInfo.cs
+F:\C#\Verksted\obj\Debug\net6.0\Verksted.csproj.CoreCompileInputs.cache
+F:\C#\Verksted\obj\Debug\net6.0\Verksted.dll
+F:\C#\Verksted\obj\Debug\net6.0\refint\Verksted.dll
+F:\C#\Verksted\obj\Debug\net6.0\Verksted.pdb
+F:\C#\Verksted\obj\Debug\net6.0\Verksted.genruntimeconfig.cache
+F:\C#\Verksted\obj\Debug\net6.0\ref\Verksted.dll
+C:\GetAcademy\Verksted\bin\Debug\net6.0\Verksted.exe
+C:\GetAcademy\Verksted\bin\Debug\net6.0\Verksted.deps.json
+C:\GetAcademy\Verksted\bin\Debug\net6.0\Verksted.runtimeconfig.json
+C:\GetAcademy\Verksted\bin\Debug\net6.0\Verksted.dll
+C:\GetAcademy\Verksted\bin\Debug\net6.0\Verksted.pdb
+C:\GetAcademy\Verksted\obj\Debug\net6.0\Verksted.csproj.AssemblyReference.cache
+C:\GetAcademy\Verksted\obj\Debug\net6.0\Verksted.GeneratedMSBuildEditorConfig.editorconfig
+C:\GetAcademy\Verksted\obj\Debug\net6.0\Verksted.AssemblyInfoInputs.cache
+C:\GetAcademy\Verksted\obj\Debug\net6.0\Verksted.AssemblyInfo.cs
+C:\GetAcademy\Verksted\obj\Debug\net6.0\Verksted.csproj.CoreCompileInputs.cache
+C:\GetAcademy\Verksted\obj\Debug\net6.0\Verksted.dll
+C:\GetAcademy\Verksted\obj\Debug\net6.0\refint\Verksted.dll
+C:\GetAcademy\Verksted\obj\Debug\net6.0\Verksted.pdb
+C:\GetAcademy\Verksted\obj\Debug\net6.0\Verksted.genruntimeconfig.cache
+C:\GetAcademy\Verksted\obj\Debug\net6.0\ref\Verksted.dll
